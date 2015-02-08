@@ -8,3 +8,4 @@ authors = ["Dongmaster <dongmaster@users.noreply.github.com>"]
 
 url = "*"
 bare-websocket = "*"
+rustc-serialize = "0.2"
