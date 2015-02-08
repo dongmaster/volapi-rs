@@ -1,0 +1,10 @@
+[package]
+
+name = "volapi_rs"
+version = "0.0.1"
+authors = ["Dongmaster <dongmaster@users.noreply.github.com>"]
+
+[dependencies]
+
+url = "*"
+bare-websocket = "*"
